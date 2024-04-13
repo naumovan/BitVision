@@ -3,7 +3,7 @@ import time
 import csv
 
 # RTSP URL или путь к локальному видеофайлу
-rtsp_url = "rtsp://172.21.4.110/stable"
+rtsp_url = "rtsp://172.21.4.110/angle"
 # rtsp_url = ""  # Или путь к локальному видеофайлу
 
 # Получаем информацию о видео с помощью FFmpeg
